@@ -51,12 +51,18 @@ Servidor rodando na EC2 com acesso SSH habilitado.
 
 ###
 ![EC2](assets/images/EC2.png)
+
 ### 🔹 Conexão SSH
 Acesso remoto realizado via PuTTY.
+
+###
+![Putty](assets/images/putty.png)
 
 ### 🔹 Script de monitoramento
 Código em Python responsável por analisar falhas de login.
 
+###
+[Script]()
 ---
 
 ## 💡 Desafios Enfrentados
