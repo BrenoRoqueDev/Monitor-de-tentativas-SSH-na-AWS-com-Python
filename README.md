@@ -43,9 +43,14 @@ Esse projeto foi desenvolvido como laboratório para prática de:
 ### 🔹 Criação da VPC
 Configuração da rede onde a instância foi provisionada.
 
+###
+![VPC](assets/images/VPCportifolio.png)
+
 ### 🔹 Instância em execução
 Servidor rodando na EC2 com acesso SSH habilitado.
 
+###
+![EC2](assets/images/EC2.png)
 ### 🔹 Conexão SSH
 Acesso remoto realizado via PuTTY.
 
