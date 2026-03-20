@@ -62,7 +62,7 @@ Acesso remoto realizado via PuTTY.
 Código em Python responsável por analisar falhas de login.
 
 ###
-[Script]()
+![Script](assets/images/ScriptPython.png)
 ---
 
 ## 💡 Desafios Enfrentados
@@ -91,6 +91,11 @@ Código em Python responsável por analisar falhas de login.
 
 ---
 
+## ⚙️ Em execução
+
+![Executado](assets/images/Script-ok.png)
+---
+
 ## ▶️ Como Executar
 
 ```bash
@@ -99,3 +104,4 @@ ssh ec2-user@<IP>
 
 # Executar o script
 python3 monitor_ssh.py
+
