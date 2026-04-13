@@ -1,4 +1,4 @@
-# 🚀 SSH Shield
+# 🛡 SSH Shield
 
 > 🔐 Monitoramento de tentativas de login SSH em uma instância na nuvem
 
